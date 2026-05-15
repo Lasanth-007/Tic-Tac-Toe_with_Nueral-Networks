@@ -43,7 +43,6 @@ The AI always picks the **highest probability legal move**.
 
 ---
 
-
 ## Requirements
 
 - Python 3.x

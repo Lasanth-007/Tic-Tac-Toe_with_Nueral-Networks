@@ -33,12 +33,17 @@ The AI always picks the **highest probability legal move**.
 ## Few previews
 
 - Dense Layer
+
 ![img_1.png](img_1.png)
 - Activation functions
+
 ![img.png](img.png)
 - Winning conditions
+
 ![img_2.png](img_2.png)
+
 - Console output
+
 ![img_3.png](img_3.png)
 
 ---
